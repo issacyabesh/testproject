@@ -1,5 +1,5 @@
 def helloworld:
- print('hi')
+ print('hi', 'hello') #edited by issac
  print('hello')
 
 helloworld()
