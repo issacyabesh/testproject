@@ -1,5 +1,5 @@
 def helloworld:
  print('hi')
- print('hello')
+ print('hello', 'hi') # added by jacob
 
 helloworld()
